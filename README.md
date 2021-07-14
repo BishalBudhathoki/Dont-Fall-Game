@@ -5,7 +5,9 @@
  <p align="center">
     This is an android/PC game whose main aim is to not fall from the platform and push down the enemy.
     <br />
-    <a href="https://youtu.be/9ETm_7jY9Sc">Check here for the game video</a>
+    <a href="https://youtu.be/9ETm_7jY9Sc">Check here for the game video</a> 
+    <br />
+    <a href="https://github.com/BishalBudhathoki/Dont-Fall-Game/blob/master/DontFall.apk">Check here for the game apk file download</a> 
   </p>
 </p>
 <p align="center">
