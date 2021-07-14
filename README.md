@@ -8,4 +8,4 @@
     <a href="https://youtu.be/9ETm_7jY9Sc">Check here for the game video</a>
   </p>
 </p>
-[![SC2 Video](screenshots/game-gif.gif)](https://youtu.be/9ETm_7jY9Sc)
+![SC2 Video](https://media.giphy.com/media/huYMHNZDySsO2ChIEk/giphy.gif)
