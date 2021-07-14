@@ -37,3 +37,8 @@
 <p align="center">
 <img src="https://github.com/BishalBudhathoki/Dont-Fall-Game/blob/master/screenshots/Capture8.PNG"></br>Thank you
 </p>
+
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
