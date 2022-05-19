@@ -11,8 +11,13 @@
     <a href="https://github.com/BishalBudhathoki/Dont-Fall-Game/blob/master/DontFall.apk">Check here for the game apk file download</a> 
     <br />
     <a href="https://bishalkc331.wixsite.com/bishalbudhathoki">Check here for game portfolio</a>
-  </p>
-</p>
+    <br />
+    <a href="https://play.google.com/store/apps/details?id=com.erbisdev.DontFall">
+     <p align="center">
+      <img src="https://github.com/BishalBudhathoki/Dont-Fall-Game/blob/master/en_get.svg" width="512" height="105" >
+     </p>
+    </a> 
+ </p>
 <p align="center">
 <img src="https://github.com/BishalBudhathoki/Dont-Fall-Game/blob/master/screenshots/Animated%20GIF-downsized_large.gif" >
 </p>
